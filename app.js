@@ -19,6 +19,7 @@
   
   btn.addEventListener("click", () => {
 
+    //Review this part 2:12:54
     questions.forEach((item) => {
         if(item !== question){
           item.classList.remove("show-text")
