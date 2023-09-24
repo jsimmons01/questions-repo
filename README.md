@@ -2,7 +2,7 @@
 
 ## Description 
 
-Creating a FAQS page. I will have to traversing the DOM and using selectors. 
+Creating a FAQS page. I will have to use traversing of the DOM and using selectors. 
 
 ### What did I learn?
 
